@@ -7,8 +7,8 @@
 Hi, I'm Nagham al Baba! I'm a **First -year Computer Science student at York university**, selected student into the Foundations track of the **MIT Emerging Talent** Program for Computer Science and Data Science.
 * 🌍Dedicated to developing impactful and purpose-driven web applications.
 * 🌱I aim to use my knowledge and experience to create solutions that help the world, focusing on:
-*  💊Public Health
-*  👓Entertainment
+* 💊Public Health
+* 👓Entertainment
 ---
   
   **My skills:**
