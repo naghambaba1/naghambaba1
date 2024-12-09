@@ -9,15 +9,14 @@ Hi, I'm Nagham al Baba! I'm a **First -year Computer Science student at York uni
 * 🌱I aim to use my knowledge and experience to create solutions that help the world, focusing on:
 * 💊Public Health
 * 👓Entertainment
----
-  
+---  
   ** My skills:**
   ---
   * HTML🌐
   * CSS🎨
   * Java☕️
   * Python🐍
-  ---
+---
   ** Core values:**
   ---
   *  🌟 Growth Mindset
