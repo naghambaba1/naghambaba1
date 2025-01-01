@@ -23,23 +23,23 @@
 
   ### My skills
   
--   HTML🌐
+- HTML🌐
   
--   CSS🎨
+- CSS🎨
   
--   Java☕️
+- Java☕️
   
--   Python🐍
+- Python🐍
 
 ---
 
- #### Core values:
+ #### Core values
    
--   🌟  Growth Mindset
+- 🌟  Growth Mindset
   
--   🚀  Passion for Excellence
+- 🚀  Passion for Excellence
 
--   💡  Impactful Change
+- 💡  Impactful Change
 
 ---
 
