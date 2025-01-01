@@ -9,7 +9,7 @@
         ,selected student into the Foundations track of the MIT Emerging Talent Program
         for Computer Science and Data Science 
       
--🌍 Dedicated to developing impactful and purpose-driven web applications 
+-🌍 Dedicated to developing impactful and purpose-driven web applications
 
 - 🌱 I aim to use my knowledge and experience to create solutions that
   
@@ -24,8 +24,11 @@
   ### My skills
   
 -   HTML🌐
+  
 -   CSS🎨
+  
 -   Java☕️
+  
 -   Python🐍
 
 ---
@@ -33,7 +36,9 @@
  #### Core values:
    
 -   🌟  Growth Mindset
+  
 -   🚀  Passion for Excellence
+
 -   💡  Impactful Change
 
 ---
