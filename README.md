@@ -34,7 +34,7 @@
 ---
 
  #### Core values
-   
+ 
 - 🌟  Growth Mindset
   
 - 🚀  Passion for Excellence
