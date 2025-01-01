@@ -5,8 +5,8 @@
   ## Who am i? ⭐️
 
         Hi, I'm Nagham al Baba! I'm anFirst -year Computer Science student at
-        York university 
-        ,selected student into the Foundations track of the MIT Emerging Talent Program
+         York university  
+        Selected as a student into the Foundations track of the MIT Emerging Talent Program
         for Computer Science and Data Science 
       
 - 🌍 Dedicated to developing impactful and purpose-driven web applications
